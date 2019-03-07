@@ -1,0 +1,9 @@
+- Para manter os nomes homogeneos, eu acho que a camada de dados (na figura) podia chamar Data (incluindo Repositories e Entities)
+- Na figura, as linhas dentro do backend poderiam ser tracejadas, mantendo a linha que separa o Front/Back como linha cheia
+- Podia ter um slide para falar do papel dos controllers e o nome dos pacotes deles
+- Vão ser usados os DTO? Se sim, acho que pode citar que eles ficam na camada de serviços, associados aos Controllers
+- Na figura, podia indicar com "REST" ou "import" as respectivas linhas (pelo menos uma de cada)
+- Podia citar a questão do controle de acesso (em que camada ou lugar ele fica)
+- Não estou 100% seguro se é válido, mas uma coisa que estava fazendo no DDD era separar os repositórios de Read e de Write. Acho que apesar de aumentar um pouco mais a complexidade, fica mais claro que os repositórios Read podem ser importados, mas os repositórios Write não podem.
+- Acho que pode explicar que vão ser usadas Interfaces também (não vai?)
+- Chega, né? rss...
