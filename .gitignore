@@ -2,3 +2,4 @@
 bert
 bert_model
 bert_local/env
+*/.venv
